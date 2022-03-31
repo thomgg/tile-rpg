@@ -1,6 +1,6 @@
 # Tile-based RPG
 
-[Full Technical Documentation](https://cseegit.essex.ac.uk/ce301_2019/ce301_wenham_t/-/tree/master/docs)
+[Full Technical Documentation](https://github.com/thomgg/tile-rpg/tree/main/docs)
 
 ## Overview
 The Tile-based RPG that I have created. 
